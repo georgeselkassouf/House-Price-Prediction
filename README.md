@@ -2,9 +2,13 @@
 
 ## Libraries
 SciKit-Learn
-Pandas 
+
+Pandas
+
 Seaborn
-Matplotlib 
+
+Matplotlib
+
 Numpy
 
 ## Description
